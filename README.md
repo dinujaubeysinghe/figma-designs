@@ -36,7 +36,7 @@ What makes Graphify special is its **dual-role system** — any user can switch 
 |---|---|
 | Figma | UI/UX Design & Wireframing |
 
-🔗 [View Full Figma Design](https://www.figma.com/design/9kLAGBOafv7eOy7dOInzHL/MAD?node-id=0-1&m=dev&t=uaKzOQy6NvQvQIsZ-1)
+🔗 [View Full Figma Design](https://www.figma.com/proto/zcz1ibXbtC6CVkqbE6eemV/Graphify---Campus-Project--Community-?node-id=0-1&t=TQkcnQG2pzqtkKlN-1)
 
 ---
 
